@@ -6,7 +6,7 @@
 * [Bozhidar Batsov - The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
 * [Christian Neukirchen - RUBY STYLE](https://github.com/chneukirchen/styleguide/blob/master/RUBY-STYLE)
 
-#### Rails
+### Rails
 * [Contributing to Ruby on Rails](http://guides.rubyonrails.org/contributing_to_ruby_on_rails.html)
 * [Bozhidar Batsov - Rails Style Guide](https://github.com/bbatsov/rails-style-guide)
 
@@ -37,7 +37,8 @@
 * [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 * [Idiomatic CSS by Necolas](https://github.com/necolas/idiomatic-css)
 * [Starbucks Style Guide](http://www.starbucks.com/static/reference/styleguide/)
-* [CSS Wizardy - My HTML/CSS coding style](http://csswizardry.com/2012/04/my-html-css-coding-style/)
+* [CSS Wizardry - My HTML/CSS coding style](http://csswizardry.com/2012/04/my-html-css-coding-style/)
+* [CSS Wizardry - General CSS notes, advice and guidelines](https://github.com/csswizardry/CSS-Guidelines)
 * [ThinkUp Code Style Guide: CSS](https://github.com/ginatrapani/ThinkUp/wiki/Code-Style-Guide:-CSS)
 * [WordPress - Code Contributor Handbook](http://make.wordpress.org/core/handbook/coding-standards/css/)
 * [SMACSS - Scalable and Modular Architecture for CSS by Jonathan Snook](http://smacss.com/)

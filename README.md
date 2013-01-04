@@ -44,6 +44,8 @@
 * [SMACSS - Scalable and Modular Architecture for CSS by Jonathan Snook](http://smacss.com/)
 
 ### HTML/Templating
+* [HTML5 Boilerplate](http://html5boilerplate.com/)
+* [HTML5 Bones](http://html5bones.com/)
 * [GitHub Markup & Templates Styleguide](https://github.com/styleguide/templates)
 * [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 * [CSS Wizardy - My HTML/CSS coding style](http://csswizardry.com/2012/04/my-html-css-coding-style/)

@@ -1,5 +1,11 @@
 # Style Guides
 
+A handy collection of style guides.
+
+#### Contributing
+
+Know of any more? Contributions are welcome and appreciated. Let's grow this list into a useful resource.
+
 ### Ruby
 * [GitHub Ruby Styleguide](https://github.com/styleguide/ruby)
 * [Caliban Style Guide](http://www.caliban.org/ruby/rubyguide.shtml)

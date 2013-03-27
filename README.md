@@ -38,6 +38,21 @@ Know of any more? Contributions are welcome and appreciated.
 * [Oracle - Code Conventions for the Java Programming Language](http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html)
 * [Mozilla Coding Style](https://developer.mozilla.org/en-US/docs/Developer_Guide/Coding_Style)
 
+### PHP
+* [PHP Framework Interop Group - Coding Style Guide](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
+* [PEAR Coding Standards](http://pear.php.net/manual/en/standards.php)
+* [Zend Framework Coding Standard for PHP](http://framework.zend.com/manual/en/coding-standard.html)
+* [Symfony Coding Standards](http://symfony.com/doc/2.0/contributing/code/standards.html)
+* [CakePHP Coding Standards](http://book.cakephp.org/2.0/en/contributing/cakephp-coding-conventions.html)
+* [CodeIgniter - General Style and Syntax](http://ellislab.com/codeigniter/user-guide/general/styleguide.html)
+* [FuelPHP Coding Standards](http://fuelphp.com/docs/general/coding_standards.html)
+* [WordPress Coding Standards](http://codex.wordpress.org/WordPress_Coding_Standards)
+* [Drupal Coding standards](http://drupal.org/coding-standards)
+* [Joomla Coding Standards](http://developer.joomla.org/coding-standards.html)
+* [TYPO3 CMS Coding Guidelines](http://docs.typo3.org/typo3cms/CodingGuidelinesReference)
+* [Magenta - PHP Coding Standards and Practices](https://wiki.magento.com/display/MAGE2DOC/PHP+Coding+Standards+and+Practices)
+* [PrestaShop Coding Standard](http://doc.prestashop.com/display/PS15/Coding+Standard)
+
 ### CSS
 * [GitHub CSS Styleguide](https://github.com/styleguide/css)
 * [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)

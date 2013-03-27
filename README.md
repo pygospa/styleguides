@@ -4,7 +4,7 @@ A handy collection of style guides.
 
 #### Contributing
 
-Know of any more? Contributions are welcome and appreciated. Let's grow this list into a useful resource.
+Know of any more? Contributions are welcome and appreciated.
 
 ### Ruby
 * [GitHub Ruby Styleguide](https://github.com/styleguide/ruby)

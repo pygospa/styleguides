@@ -22,6 +22,7 @@ Know of any more? Contributions are welcome and appreciated.
 * [Mozilla Coding Style](https://developer.mozilla.org/en-US/docs/Developer_Guide/Coding_Style)
 * [Idiomatic JavaScript by Rick Waldron](https://github.com/rwldrn/idiomatic.js/)
 * [jQuery Core Style Guidelines](http://docs.jquery.com/JQuery_Core_Style_Guidelines)
+* [MooTools - Syntax and Coding Style Conventions](https://github.com/mootools/mootools-core/wiki/syntax-and-coding-style-conventions)
 * [Dojo Style Guide](http://dojotoolkit.org/community/styleGuide)
 * [Aloha Editor - JavaScript Style Guide](http://aloha-editor.org/guides/style_guide.html)
 * [Code Conventions for the JavaScript Programming Language by Douglas Crockford](http://javascript.crockford.com/code.html)

@@ -28,6 +28,7 @@ Know of any more? Contributions are welcome and appreciated.
 * [Code Conventions for the JavaScript Programming Language by Douglas Crockford](http://javascript.crockford.com/code.html)
 * [npmjs coding style](https://npmjs.org/doc/coding-style.html)
 * [Addy Osmani - JavaScript Style Guides and Beautifiers](http://addyosmani.com/blog/javascript-style-guides-and-beautifiers/)
+* [CKAN - Javascript Coding Standards](http://docs.ckan.org/en/latest/javascript-coding-standards.html)
 
 ### C++
 * [Google C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
@@ -38,6 +39,9 @@ Know of any more? Contributions are welcome and appreciated.
 ### Java
 * [Oracle - Code Conventions for the Java Programming Language](http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html)
 * [Mozilla Coding Style](https://developer.mozilla.org/en-US/docs/Developer_Guide/Coding_Style)
+
+### Python
+* [CKAN - Python Coding Standards](http://docs.ckan.org/en/latest/python-coding-standards.html)
 
 ### PHP
 * [PHP Framework Interop Group - Coding Style Guide](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)
@@ -65,6 +69,7 @@ Know of any more? Contributions are welcome and appreciated.
 * [ThinkUp Code Style Guide: CSS](https://github.com/ginatrapani/ThinkUp/wiki/Code-Style-Guide:-CSS)
 * [WordPress - Code Contributor Handbook](http://make.wordpress.org/core/handbook/coding-standards/css/)
 * [SMACSS - Scalable and Modular Architecture for CSS by Jonathan Snook](http://smacss.com/)
+* [CKAN - CSS Coding Standards](http://docs.ckan.org/en/latest/css-coding-standards.html)
 
 ### HTML/Templating
 * [HTML5 Boilerplate](http://html5boilerplate.com/)
@@ -72,3 +77,4 @@ Know of any more? Contributions are welcome and appreciated.
 * [GitHub Markup & Templates Styleguide](https://github.com/styleguide/templates)
 * [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 * [CSS Wizardy - My HTML/CSS coding style](http://csswizardry.com/2012/04/my-html-css-coding-style/)
+* [CKAN - HTML Coding Standards](http://docs.ckan.org/en/latest/html-coding-standards.html)

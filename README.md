@@ -29,6 +29,7 @@ Know of any more? Contributions are welcome and appreciated.
 * [npmjs coding style](https://npmjs.org/doc/coding-style.html)
 * [Addy Osmani - JavaScript Style Guides and Beautifiers](http://addyosmani.com/blog/javascript-style-guides-and-beautifiers/)
 * [CKAN - Javascript Coding Standards](http://docs.ckan.org/en/latest/javascript-coding-standards.html)
+* [Drupal - JavaScript coding standards](http://drupal.org/node/172169)
 
 ### C++
 * [Google C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
@@ -68,6 +69,7 @@ Know of any more? Contributions are welcome and appreciated.
 * [CSS Wizardry - General CSS notes, advice and guidelines](https://github.com/csswizardry/CSS-Guidelines)
 * [ThinkUp Code Style Guide: CSS](https://github.com/ginatrapani/ThinkUp/wiki/Code-Style-Guide:-CSS)
 * [WordPress - Code Contributor Handbook](http://make.wordpress.org/core/handbook/coding-standards/css/)
+* [Drupal - CSS formatting guidelines](http://drupal.org/node/1887862)
 * [SMACSS - Scalable and Modular Architecture for CSS by Jonathan Snook](http://smacss.com/)
 * [CKAN - CSS Coding Standards](http://docs.ckan.org/en/latest/css-coding-standards.html)
 

@@ -57,6 +57,7 @@ Know of any more? Contributions are welcome and appreciated.
 * [TYPO3 CMS Coding Guidelines](http://docs.typo3.org/typo3cms/CodingGuidelinesReference)
 * [Magenta - PHP Coding Standards and Practices](https://wiki.magento.com/display/MAGE2DOC/PHP+Coding+Standards+and+Practices)
 * [PrestaShop Coding Standard](http://doc.prestashop.com/display/PS15/Coding+Standard)
+* [Piwik Coding Standards](http://piwik.org/participate/coding-standards)
 
 ### CSS
 * [GitHub CSS Styleguide](https://github.com/styleguide/css)

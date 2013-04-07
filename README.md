@@ -30,6 +30,7 @@ Know of any more? Contributions are welcome and appreciated.
 * [Addy Osmani - JavaScript Style Guides and Beautifiers](http://addyosmani.com/blog/javascript-style-guides-and-beautifiers/)
 * [CKAN - Javascript Coding Standards](http://docs.ckan.org/en/latest/javascript-coding-standards.html)
 * [Drupal - JavaScript coding standards](http://drupal.org/node/172169)
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
 ### C++
 * [Google C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)

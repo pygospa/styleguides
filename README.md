@@ -44,6 +44,7 @@ Know of any more? Contributions are welcome and appreciated.
 
 ### Python
 * [Style Guide for Python Code](http://www.python.org/dev/peps/pep-0008)
+* [Django Coding style](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
 * [CKAN - Python Coding Standards](http://docs.ckan.org/en/latest/python-coding-standards.html)
 
 ### PHP

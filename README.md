@@ -44,6 +44,7 @@ Know of any more? Contributions are welcome and appreciated.
 
 ### Python
 * [CKAN - Python Coding Standards](http://docs.ckan.org/en/latest/python-coding-standards.html)
+* [Google Python Style Guide](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
 
 ### PHP
 * [PHP Framework Interop Group - Coding Style Guide](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md)

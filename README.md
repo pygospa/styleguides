@@ -16,14 +16,14 @@ Know of any more? Contributions are welcome and appreciated.
 * [Bozhidar Batsov - The Elements of Style in Ruby #3](http://batsov.com/articles/2013/06/28/the-elements-of-style-in-ruby-number-3-make-sure-something-is-an-array/)
 * [Bozhidar Batsov - The Elements of Style in Ruby #4](http://batsov.com/articles/2013/07/01/the-elements-of-style-in-ruby-number-4-array-number-join-vs-array-number-star/)
 * [Bozhidar Batsov - The Elements of Style in Ruby #5](http://batsov.com/articles/2013/07/02/the-elements-of-style-in-ruby-number-5-readability-of-long-numeric-literals/)
-* [Thoughbot Guides - Style](https://github.com/thoughtbot/guides/tree/master/style)
-* [Thoughbot Guides - Best Practices](https://github.com/thoughtbot/guides/tree/master/best-practices)
+* [Thoughtbot Guides - Style](https://github.com/thoughtbot/guides/tree/master/style)
+* [Thoughtbot Guides - Best Practices](https://github.com/thoughtbot/guides/tree/master/best-practices)
 
 ### Rails
 * [Contributing to Ruby on Rails](http://guides.rubyonrails.org/contributing_to_ruby_on_rails.html)
 * [Bozhidar Batsov - Rails Style Guide](https://github.com/bbatsov/rails-style-guide)
-* [Thoughbot Guides - Style](https://github.com/thoughtbot/guides/tree/master/style)
-* [Thoughbot Guides - Best Practices](https://github.com/thoughtbot/guides/tree/master/best-practices)
+* [Thoughtbot Guides - Style](https://github.com/thoughtbot/guides/tree/master/style)
+* [Thoughtbot Guides - Best Practices](https://github.com/thoughtbot/guides/tree/master/best-practices)
 
 ### JavaScript
 * [Google JavaScript Style Guide](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
@@ -95,5 +95,5 @@ Know of any more? Contributions are welcome and appreciated.
 * [CKAN - HTML Coding Standards](http://docs.ckan.org/en/latest/html-coding-standards.html)
 
 ### General
-* [Thoughbought Guides - Style](https://github.com/thoughtbot/guides/tree/master/style)
-* [Thoughbot Guides - Best Practices](https://github.com/thoughtbot/guides/tree/master/best-practices)
+* [Thoughtbot Guides - Style](https://github.com/thoughtbot/guides/tree/master/style)
+* [Thoughtbot Guides - Best Practices](https://github.com/thoughtbot/guides/tree/master/best-practices)

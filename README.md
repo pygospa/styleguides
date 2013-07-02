@@ -9,8 +9,13 @@ Know of any more? Contributions are welcome and appreciated.
 ### Ruby
 * [GitHub Ruby Styleguide](https://github.com/styleguide/ruby)
 * [Caliban Style Guide](http://www.caliban.org/ruby/rubyguide.shtml)
-* [Bozhidar Batsov - The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
 * [Christian Neukirchen - RUBY STYLE](https://github.com/chneukirchen/styleguide/blob/master/RUBY-STYLE)
+* [Bozhidar Batsov - The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
+* [Bozhidar Batsov - The Elements of Style in Ruby #1](http://batsov.com/articles/2013/06/26/the-elements-of-style-in-ruby-number-1-maximum-line-length/)
+* [Bozhidar Batsov - The Elements of Style in Ruby #2](http://batsov.com/articles/2013/06/27/the-elements-of-style-in-ruby-number-2-favor-sprintf-format-over-string-number-percent/)
+* [Bozhidar Batsov - The Elements of Style in Ruby #3](http://batsov.com/articles/2013/06/28/the-elements-of-style-in-ruby-number-3-make-sure-something-is-an-array/)
+* [Bozhidar Batsov - The Elements of Style in Ruby #4](http://batsov.com/articles/2013/07/01/the-elements-of-style-in-ruby-number-4-array-number-join-vs-array-number-star/)
+* [Bozhidar Batsov - The Elements of Style in Ruby #5](http://batsov.com/articles/2013/07/02/the-elements-of-style-in-ruby-number-5-readability-of-long-numeric-literals/)
 
 ### Rails
 * [Contributing to Ruby on Rails](http://guides.rubyonrails.org/contributing_to_ruby_on_rails.html)

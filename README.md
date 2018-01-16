@@ -41,6 +41,10 @@ Know of any more? Contributions are welcome and appreciated.
 * [Drupal - JavaScript coding standards](http://drupal.org/node/172169)
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
+### C
+* [GNU Coding Standard](https://www.gnu.org/prep/standards/standards.html)
+* [Linux Kernel Coding Standard](https://www.kernel.org/doc/html/v4.10/process/coding-style.html)
+
 ### C++
 * [Google C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
 * [WebKit Coding Style Guidelines](http://www.webkit.org/coding/coding-style.html)
@@ -50,6 +54,8 @@ Know of any more? Contributions are welcome and appreciated.
 ### Java
 * [Oracle - Code Conventions for the Java Programming Language](http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html)
 * [Mozilla Coding Style](https://developer.mozilla.org/en-US/docs/Developer_Guide/Coding_Style)
+* [Eclipse Coding Conventions](https://wiki.eclipse.org/Coding_Conventions)
+* [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 
 ### Python
 * [Style Guide for Python Code](http://www.python.org/dev/peps/pep-0008)
@@ -94,6 +100,24 @@ Know of any more? Contributions are welcome and appreciated.
 * [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 * [CSS Wizardy - My HTML/CSS coding style](http://csswizardry.com/2012/04/my-html-css-coding-style/)
 * [CKAN - HTML Coding Standards](http://docs.ckan.org/en/latest/html-coding-standards.html)
+
+### Angular JS
+* [Google AngularJS Style Guide](https://google.github.io/styleguide/shell.xml)
+
+### Haskell
+* [Haskell Wiki Programming Guidelines](https://wiki.haskell.org/Programming_guidelines)
+
+### LISP
+* [Google Common LISP Style Guide](https://google.github.io/styleguide/lispguide.xml)
+
+### R
+* [Google R Style Guide](https://google.github.io/styleguide/Rguide.xml)
+
+### Shell Script
+* [Google Shell Style Guide](https://google.github.io/styleguide/shell.xml)
+
+### Vim Script
+* [Google Vim Script Style Guide](https://google.github.io/styleguide/vimscriptguide.xml)
 
 ### General
 * [Thoughtbot Guides - Style](https://github.com/thoughtbot/guides/tree/master/style)
